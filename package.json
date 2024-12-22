@@ -1,5 +1,6 @@
 {
   "name": "hello-world-ts",
+  "homepage": "https://manojkumar-kasiviswanathan.github.io/hello-world-ts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
